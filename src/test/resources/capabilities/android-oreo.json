@@ -1,0 +1,10 @@
+{
+  "platformName": "Android",
+  "deviceName": "oreo",
+  "automationName": "UiAutomator2",
+  "udid": "emulator-5554",
+  "avd": "Pixel_5_API_24",
+  "fullReset": true,
+  "newCommandTimeout": 5
+}
+
